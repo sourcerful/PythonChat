@@ -1,2 +1,3 @@
 # PythonChat
-A chat in python with tkinter GUI
+A multiclient chat in python.
+GUI was made using the tkinter lib.
